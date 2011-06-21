@@ -1,6 +1,6 @@
 Package: json-parser
 Version: 2009-10-19
-Revision: 4
+Revision: 5
 Maintainer: Marmalade Package Team <packages@ideaworkslabs.com>
 Homepage: http://fara.cs.uni-potsdam.de/~jsg/json_parser/
 Type: platform-independant
@@ -20,6 +20,6 @@ Description: |
  The parser processes UTF-8 encoded JSON only.
  JSON object keys and JSON strings are returned as UTF-8 encoded C strings.
 Contents:
- - README.txt
+ - README.rst
  - source
  - json_parser.mkf

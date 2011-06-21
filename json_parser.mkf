@@ -1,11 +1,11 @@
 includepaths
 {
-	"source"
+    "source"
 }
 
 files
 {
-	("source")
-	JSON_parser.c
-	JSON_parser.h
+    ("source")
+    JSON_parser.c
+    JSON_parser.h
 }
