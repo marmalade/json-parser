@@ -1,0 +1,11 @@
+includepaths
+{
+	"source"
+}
+
+files
+{
+	("source")
+	JSON_parser.c
+	JSON_parser.h
+}

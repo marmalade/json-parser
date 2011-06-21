@@ -1,0 +1,5 @@
+json-parser (2009-10-19-4)
+
+  * update package description
+
+ -- Marmalade Package Team <packages@ideaworkslabs.com>  Mon, 02 May 2011
