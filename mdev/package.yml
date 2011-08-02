@@ -1,6 +1,4 @@
 Package: json-parser
-Version: 2009-10-19
-Revision: 5
 Maintainer: Marmalade Package Team <packages@ideaworkslabs.com>
 Homepage: http://fara.cs.uni-potsdam.de/~jsg/json_parser/
 Type: platform-independant
